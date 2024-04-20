@@ -1,2 +1,3 @@
-# banco_lotacao
-banco_lotacao
+# Banco Lotação
+
+Case usando SQL
